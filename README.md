@@ -31,3 +31,13 @@ It allows users to submit repair orders, view status updates, and manage device 
 Open your terminal and run:
 ```bash
 git clone https://github.com/sondosaamer/Electronic-devices-repair-website.git
+
+---
+
+🔑 Demo Login Credentials
+
+You can use the following accounts to explore the system:
+
+Role	  Username	 Password
+Admin	  admin	     admin
+User	  user1	     1111
